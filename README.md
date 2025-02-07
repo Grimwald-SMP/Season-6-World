@@ -1,7 +1,7 @@
 # Grimwald SMP Season 6 World
 
 ## Requirements
-- Version 1.17.+
+- Version 1.17+
 - No mods required
 
 ## Download and Installation Instructions
